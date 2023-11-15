@@ -1,5 +1,31 @@
 (kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid ffb13eae-7644-43bd-9c9f-0419269b6057)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 17.78 20.32) (size 35.56 27.94) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6054ead4-2f35-4957-bc44-7a46a4a2dffa)
+    (property "Sheetname" "Mainboard" (at 17.78 19.6084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "mainboard.kicad_sch" (at 17.78 48.8446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "switchernor"
+        (path "/ffb13eae-7644-43bd-9c9f-0419269b6057" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
