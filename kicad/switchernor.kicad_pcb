@@ -811,7 +811,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 90373559-8372-481f-a57f-1933afdc6b51)
-    (at 84.841 47.63 90)
+    (at 160.914 50.932 90)
     (descr "Through hole straight pin header, 2x05, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x05 2.54mm double row")
     (property "Sheetfile" "mainboard.kicad_sch")
@@ -894,7 +894,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 919e75c8-8033-4cbc-b8de-4a697d5b690f)
-    (at 145.542 46.101 90)
+    (at 96.266 51.181 90)
     (descr "Through hole straight pin header, 2x05, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x05 2.54mm double row")
     (property "Sheetfile" "mainboard.kicad_sch")
