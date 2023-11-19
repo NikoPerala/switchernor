@@ -1,1 +1,4 @@
+*.swp
+kicad/fp-info-cache
 kicad/switchernor-backups/
+prototype/prototype
